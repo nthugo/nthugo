@@ -1,0 +1,18 @@
+.member-group{
+	text-align: center;
+	font-size: 25px;
+
+}
+.contact-text{
+	/*color: #fec503;*/
+	color: 	#FFFF33;
+	/*padding-top: 8px;*/
+	font-size: 23px;
+}
+.contact-fb{
+	color: white;
+	padding-right: 30px;
+}
+.timeline-highlight{
+	color: #FF8800;
+}
