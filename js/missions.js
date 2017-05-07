@@ -1885,7 +1885,7 @@ var missions_info = [
   },
   {
     "category": "CAMPUS 校園",
-    "condition": "分享粉專的校友證專文簡介，內文打上「清華黨證在手，校友希望無窮」並按讚+tag<a href=\"https://www.facebook.com/nthualumni/\">校友服務中心粉專</a>。截圖上傳活動頁面。",
+    "condition": "分享粉專的校友證專文簡介，內文打上「清華黨證在手，校友希望無窮」並按讚+tag<a href=\"https://www.facebook.com/nthualumni/\">校友服務中心粉專</a>。截圖「分享NTHUGO粉專貼文」及「按讚校友服務中心粉專」兩張圖片上傳活動頁面。",
     "description": "黨證在手，暢行無阻，清大校友證就是你的首選！",
     "description-in": "黨證在手，暢行無阻。你還在想黨證怎麼拿嗎？不用想了，清大校友證就是你的首選！",
     "hardness": "普通（10分）",
