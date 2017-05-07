@@ -61,9 +61,19 @@ function renderCategory(target_id,category, description){
 			$(target_id).append(wrapper);
 			buffer = [];
 		}
-
-
 	}
+
+
+	var wrapper = $('<div class= "row">');
+	for(var j = 0; j < buffer.length ; j++){
+		var num = buffer[j].id.substring(6, 9);
+		buffer[j].num = num;
+		wrapper.append(Mustache.render(template_content, buffer[j]));		
+	}
+	$(target_id).append(wrapper);
+	buffer = [];
+
+
 
 }
 
